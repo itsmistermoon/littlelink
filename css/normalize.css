@@ -182,6 +182,12 @@ p.bio{
   font-weight: 700;
 }
 
+p.footer{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
 /* Embedded content
    ========================================================================== */
 
