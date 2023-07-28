@@ -177,12 +177,12 @@ sub {
   bottom: -0.25em;
 }
 
-p.bio{
+.bio{
   font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
 }
 
-p.footer{
+.footer{
   font-family: 'Titillium Web', sans-serif;
   font-weight: 400;
   font-size: 14px;
