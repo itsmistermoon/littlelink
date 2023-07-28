@@ -1014,16 +1014,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Whakoom */
-.button.button-whakoom {
-  color: #ffffff;
-  background-color: #00C4EC;
-}
-.button.button-whakoom:hover,
-.button.button-whakoom:focus {
-  filter: brightness(90%);
-}
-
 /* Website */
 .button.button-web {
   color: #ffffff;
@@ -1042,6 +1032,16 @@ button:hover,
 }
 .button.button-whatsapp:hover,
 .button.button-whatsapp:focus {
+  filter: brightness(90%);
+}
+
+/* Whakoom */
+.button.button-whakoom {
+  color: #ffffff;
+  background-color: #00C4EC;
+}
+.button.button-whakoom:hover,
+.button.button-whakoom:focus {
   filter: brightness(90%);
 }
 
