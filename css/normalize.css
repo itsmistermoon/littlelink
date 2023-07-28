@@ -177,6 +177,11 @@ sub {
   bottom: -0.25em;
 }
 
+p.bio{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+}
+
 /* Embedded content
    ========================================================================== */
 
