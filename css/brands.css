@@ -29,7 +29,7 @@
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-@import url(https://fonts.bunny.net/css?family=bakbak-one:400|titillium-web:400,700);
+@import url(https://fonts.bunny.net/css?family=alexandria:300,500|bakbak-one:400);
 
 .button,
 button {
@@ -203,6 +203,16 @@ button:hover,
 }
 .button.button-bluesky:hover,
 .button.button-bluesky:focus {
+  filter: brightness(90%);
+}
+
+/* BookWyrm */
+.button.button-bookwyrm {
+  color: #000000;
+  background-color: #ffffff;
+}
+.button.button-bookwyrm:hover,
+.button.button-bookwyrm:focus {
   filter: brightness(90%);
 }
 

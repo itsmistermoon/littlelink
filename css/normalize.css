@@ -6,7 +6,7 @@
  *    user zoom.
  */
 
-@import url(https://fonts.bunny.net/css?family=bakbak-one:400|titillium-web:400,700);
+@import url(https://fonts.bunny.net/css?family=alexandria:300,500|bakbak-one:400);
 
 html {
   font-family: sans-serif; /* 1 */
@@ -178,14 +178,14 @@ sub {
 }
 
 .bio{
-  font-family: 'Titillium Web', sans-serif;
-  font-weight: 700;
+  font-family: 'Alexandria', sans-serif;
+  font-weight: 500;
 }
 
 .footer{
-  font-family: 'Titillium Web', sans-serif;
-  font-weight: 400;
-  font-size: 14px;
+  font-family: 'Alexandria', sans-serif;
+  font-weight: 300;
+  font-size: 13px;
 }
 
 /* Embedded content

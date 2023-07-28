@@ -85,7 +85,7 @@
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 
-@import url(https://fonts.bunny.net/css?family=bakbak-one:400|titillium-web:400,700);
+@import url(https://fonts.bunny.net/css?family=alexandria:300,500|bakbak-one:400);
 
 html {
   font-size: 100%;
@@ -94,8 +94,8 @@ html {
 body {
   font-size: 18px;
   line-height: 24px;
-  font-weight: 400;
-  font-family: "Titillium Web", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-family: "Alexandria", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* Typography
