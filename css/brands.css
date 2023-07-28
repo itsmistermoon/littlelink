@@ -1014,6 +1014,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Whakoom */
+.button.button-twit {
+  color: #ffffff;
+  background-color: #00C4EC;
+}
+.button.button-twit:hover,
+.button.button-twit:focus {
+  filter: brightness(90%);
+}
+
 /* Website */
 .button.button-web {
   color: #ffffff;
