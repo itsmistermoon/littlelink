@@ -221,6 +221,7 @@ hr {
 pre {
   overflow: auto;
   white-space: pre-wrap;
+  text-align: left;
 }
 
 /**
