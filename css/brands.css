@@ -535,6 +535,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Lemmy */
+.button.button-lemmy {
+  color: #ffffff;
+  background-color: #14854f;
+}
+.button.button-lemmy:hover,
+.button.button-lemmy:focus {
+  filter: brightness(90%);
+}
+
 /* Letterboxd */
 .button.button-letterboxd {
   color: #ffffff;
@@ -659,6 +669,16 @@ button:hover,
 .button.button-pinterest:hover,
 .button.button-pinterest:focus {
   filter: brightness(90%);
+}
+
+/*  Pixelfed */
+.button.button-pixelfed {
+  color: #000000;
+  background-color: #ffffff;
+}
+.button.button-pixelfed:hover,
+.button.button-pixelfed:focus {
+  filter: brightness(90%)
 }
 
 /* Post.news */
