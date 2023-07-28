@@ -6,7 +6,7 @@
  *    user zoom.
  */
 
-@import url(https://fonts.bunny.net/css?family=bakbak-one:400|titillium-web:400);
+@import url(https://fonts.bunny.net/css?family=bakbak-one:400|titillium-web:400,700);
 
 html {
   font-family: sans-serif; /* 1 */
@@ -269,7 +269,6 @@ textarea {
  */
 
 button {
-  font-family: 'Titillium Web', sans-serif;
   overflow: visible;
 }
 
