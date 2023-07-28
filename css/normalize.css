@@ -6,6 +6,8 @@
  *    user zoom.
  */
 
+@import url(https://fonts.bunny.net/css?family=bakbak-one:400|titillium-web:400);
+
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -17,6 +19,7 @@ html {
  */
 
 body {
+  font-family: 'Titillium Web', sans-serif;
   margin: 0;
 }
 
@@ -133,6 +136,7 @@ dfn {
  */
 
 h1 {
+  font-family: 'Bakbak One', display;
   font-size: 2em;
   margin: 0.67em 0;
 }
